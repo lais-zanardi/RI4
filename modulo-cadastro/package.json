@@ -1,0 +1,19 @@
+{
+  "name": "ri4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RI4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lais-zanardi/RI4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lais-zanardi/RI4/issues"
+  },
+  "homepage": "https://github.com/lais-zanardi/RI4#readme"
+}
